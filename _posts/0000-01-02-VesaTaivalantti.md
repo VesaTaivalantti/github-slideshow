@@ -3,6 +3,6 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-Vesa text with more text. text text
+Vesa's awesome slide
 
 Use the right arrow to begin!
